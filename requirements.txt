@@ -1,0 +1,6 @@
+first download ollama in ollama download llama3.1:8B model
+Django
+
+
+for running this project you need minimum of 8gb vram graphics card
+
